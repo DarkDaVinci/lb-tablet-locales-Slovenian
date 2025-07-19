@@ -1,0 +1,1931 @@
+{
+    "LABEL": "Slovenščina",
+    "SEARCH": "Iskanje",
+    "CANCEL": "Prekliči",
+    "NOW": "zdaj",
+    "D": "d",
+    "H": "h",
+    "M": "min",
+    "S": "s",
+
+    "APP_NAMES": {
+        "Police": "Policija",
+        "Ambulance": "Nujna pomoč",
+        "Registration": "Registracija",
+        "Notes": "Opombe",
+        "Browser": "Brskalnik",
+        "Settings": "Nastavitve",
+        "Photos": "Fotografije",
+        "Camera": "Kamera",
+        "Calculator": "Kalkulator",
+        "Apps": "Aplikacije",
+        "Clock": "Ura",
+        "Maps": "Zemljevidi",
+        "Mail": "E-pošta",
+        "Services": "Storitve",
+        "VoiceMemo": "Glasovni zapiski"
+    },
+
+    "APPS": {
+        "SETTINGS": {
+            "TITLE": "Nastavitve",
+            "BACK": "Nazaj",
+            "DONE": "Končano",
+            "EDIT": "Uredi",
+            "AIRPLANE_MODE": "Način letala",
+            "AIRPLANE_MODE_DESCRIPTION": "Onemogoči klice, mobilne podatke itd.",
+            "STREAMER_MODE": "Način za pretakanje",
+            "STREAMER_MODE_DESCRIPTION": "Zamegljuje občutljive informacije",
+            "GENERAL": "Splošno",
+            "GENERAL_DESCRIPTION": "Splošne nastavitve za vaš tablični računalnik",
+            "ABOUT": "O napravi",
+            "NAME": "Ime",
+            "VERSION": "Različica",
+            "MODEL_NAME": "Ime modela",
+            "SERIAL_NUMBER": "Serijska številka",
+            "DEVELOPED_BY": "Razvijalec",
+            "PURCHASE_AT": "Nakup pri",
+            "SONGS": "Pesmi",
+            "VIDEOS": "Videoposnetki",
+            "PHOTOS": "Fotografije",
+            "APPLICATIONS": "Aplikacije",
+            "CAPACITY": "Kapaciteta",
+            "AVAILABLE": "Na voljo",
+            "SOFTWARE_UPDATE": "Posodobitev programske opreme",
+            "AUTOMATIC_UPDATES": "Samodejne posodobitve",
+            "DATE_TIME": "Datum in čas",
+            "24_HOUR_TIME": "24-urni čas",
+            "SET_AUTOMATICALLY": "Nastavi samodejno",
+            "TIME_ZONE": "Časovni pas",
+            "LANGUAGE_REGION": "Jezik in regija",
+            "LANGUAGE": "Jezik",
+            "TEMPERATURE": "Temperatura",
+            "CELCIUS": "Celsius",
+            "FAHRENHEIT": "Fahrenheit",
+            "BATTERY": "Baterija",
+            "BATTERY_DESCRIPTION": "Ogled stanja in porabe baterije",
+            "SOUND_HAPTICS": "Zvok in vibracije",
+            "SOUND_HAPTICS_DESCRIPTION": "Spremeni zvoke in vibracije",
+            "SOUND_HAPTICS_PATTERNS": "Vzorci zvokov in vibracij",
+            "RINGTONE": "Klicni ton",
+            "RINGTONE_VOLUME": "Glasnost klicnega tona",
+            "TEXT_TONE": "Ton za obvestila",
+            "DEFAULT": "Privzeto",
+            "PHONE_STORAGE": "Pomnilnik tabličnega računalnika",
+            "STORAGE": "Pomnilnik",
+            "USED": "Uporabljeno",
+            "OF": "od",
+            "DISPLAY_BRIGHTNESS": "Zaslon in svetlost",
+            "DISPLAY_BRIGHTNESS_DESCRIPTION": "Nastavi zaslon in svetlost",
+            "DARK": "Temno",
+            "LIGHT": "Svetlo",
+            "APPEARANCE": "Videz",
+            "AUTOMATIC": "Samodejno",
+            "BRIGHTNESS": "Svetlost",
+            "FRAME_COLOR": "Barva okvira",
+            "TABLET_SCALE": "Lestvica tabličnega računalnika",
+            "WALLPAPER": "Ozadje",
+            "WALLPAPER_DESCRIPTION": "Spremeni ozadje in druge nastavitve ozadja",
+            "WALLPAPERS": "Ozadja",
+            "CHOOSE_NEW_WALLPAPER": "Izberi novo ozadje",
+            "NOTIFICATIONS": "Obvestila",
+            "NOTIFICATIONS_DESCRIPTION": "Izberi, katere aplikacije lahko pošiljajo obvestila",
+            "ALLOW_NOTIFICATIONS": "Dovoli obvestila",
+            "SOUNDS": "Zvoki",
+            "CLOUD_BACKUP": "Varnostna kopija v oblaku",
+            "YOUR_PROFILE": "Vaš profil",
+            "SUCCESS": "Uspešno",
+            "SUCCESS_TEXT": "Tablični računalnik se bo znova zagnal v 5 sekundah...",
+            "OK": "V redu",
+            "ON": "Vklopljeno",
+            "OFF": "Izklopljeno",
+
+            "RESET_POPUP": {
+                "TITLE": "Ponastavi tablični računalnik",
+                "TEXT": "Ali ste prepričani, da želite ponastaviti tablični računalnik? [TO BO IZBRISALO VSE]",
+                "CANCEL": "Prekliči",
+                "CONFIRM": "Ponastavi"
+            },
+            "UP_TO_DATE": "Vaš tablični računalnik je posodobljen",
+            "BLUR_HOMESCREEN": "Zameglitev domačega zaslona"
+        },
+        "NOTES": {
+            "TITLE": "Opombe",
+            "SEARCH_PLACEHOLDER": "Iskanje",
+            "FOOTER": "{amount} opomb",
+            "NEW_NOTE": "Nova opomba",
+            "LAST_EDITED": "Zadnja sprememba: {date}",
+            "DELETE_TITLE": "Izbriši {title}",
+            "DELETE_TEXT": "Ali ste prepričani, da želite izbrisati '{title}'?",
+            "BUTTON_CANCEL": "Prekliči",
+            "BUTTON_DELETE": "Izbriši",
+            "PHONE": "Telefon",
+            "TABLET": "Tablični računalnik"
+        },
+        "CLOCK": {
+            "WORLDCLOCK": {
+                "TITLE": "Svetovna ura",
+                "TODAY": "Danes",
+                "TOMORROW": "Jutri",
+                "YESTERDAY": "Včeraj",
+                "LOCAL_TIME": "Lokalni čas",
+                "HRS": "{time} ur"
+            },
+            "ALARM": {
+                "TITLE": "Budilka",
+                "ADD": "Dodaj budilko",
+                "CANCEL": "Prekliči",
+                "EDIT": "Uredi",
+                "DONE": "Končano",
+                "SAVE": "Shrani",
+                "LABEL": "Oznaka",
+                "SOUND": "Zvok",
+                "SNOOZE": "Odloži",
+                "DELETE_TITLE": "Izbriši budilko",
+                "DELETE_TEXT": "Ali ste prepričani, da želite izbrisati to budilko?",
+                "BUTTON_CANCEL": "Prekliči",
+                "BUTTON_DELETE": "Izbriši",
+                "ALARMS": "Budilke",
+                "NEW_ALARM": "Nova budilka",
+                "EDIT_ALARM": "Uredi budilko"
+            },
+            "STOPWATCH": {
+                "TITLE": "Štoparica",
+                "START": "Začni",
+                "STOP": "Ustavi",
+                "RESET": "Ponastavi",
+                "LAP": "Krog",
+                "TIME": "Čas",
+                "TOTAL": "Skupaj",
+                "NO_LAPS": "Ni krogov"
+            },
+            "TIMER": {
+                "TITLE": "Štoparica",
+                "START": "Začni",
+                "STOP": "Ustavi",
+                "CANCEL": "Prekliči",
+                "HOURS": "Ure",
+                "MINUTES": "Minute",
+                "SECONDS": "Sekunde",
+                "NO_RECENTS": "Ni nedavnih"
+            },
+            "ALERT": {
+                "STOP": "Ustavi",
+                "RESTART": "Znova zaženi"
+            }
+        },
+        "CAMERA": {
+            "VIDEO": "Video",
+            "PHOTO": "Fotografija",
+            "LANDSCAPE": "Pokrajina",
+            "UPLOADING": "Nalaganje"
+        },
+        "APPSTORE": {
+            "TITLE": "Aplikacije",
+            "SEARCH": "Iskanje",
+            "GET": "Pridobi",
+            "OPEN": "Odpri",
+            "TODAY": "Danes",
+            "POPULAR_APPS": "Priljubljene aplikacije",
+            "GAMES": "Igre",
+            "APPS": "Aplikacije",
+            "WHAT_WE_PLAYING": "Kaj igramo",
+            "INFORMATION": "Informacije",
+            "PROVIDER": "Ponudnik",
+            "SIZE": "Velikost",
+            "COMPATIBILITY": "Združljivost",
+            "IN_APP_PURCHASES": "Nakupi v aplikaciji",
+            "WORKS_WITH_PHONE": "Deluje s tem tabličnim računalnikom",
+            "NO": "Ne",
+            "YES": "Da",
+            "PURCHASE_APP_POPUP": {
+                "TITLE": "Nakup aplikacije",
+                "DESCRIPTION": "Ali želite kupiti {app} za {price}?",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Kupi"
+            }
+        },
+        "PHOTOS": {
+            "TITLE": "Fotografije",
+            "SELECT": "Izberi",
+            "CANCEL": "Prekliči",
+            "EDIT": "Uredi",
+            "DONE": "Končano",
+            "DELETE": "Izbriši",
+            "SELECT_ITEMS": "Izberi predmete",
+            "SELECTED_COUNT": "{count} izbranih predmetov",
+
+            "PHOTOS": "Fotografije",
+            "ALBUMS": "Albumi",
+            "LIBRARY": "Knjižnica",
+            "GALLERY": "Galerija",
+            "MY_ALBUMS": "Moji albumi",
+            "MEDIA_TYPES": "Vrste medijev",
+            "FROM_MY_PHONE": "Iz mojega telefona",
+            "NEW_ALBUM_POPUP": {
+                "TITLE": "Nov album",
+                "DESCRIPTION": "Vnesite ime za ta album",
+                "PLACEHOLDER": "Naslov",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Shrani"
+            },
+            "REMOVE_ALBUM": {
+                "TITLE": "Odstrani \"{name}\"",
+                "DESCRIPTION": "Ali ste prepričani, da želite izbrisati album \"{name}\"? Fotografije ne bodo izbrisane.",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Odstrani"
+            },
+            "RENAME_ALBUM_POPUP": {
+                "TITLE": "Preimenuj album",
+                "DESCRIPTION": "Vnesite novo ime za ta album",
+                "PLACEHOLDER": "Novo ime albuma",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Nadaljuj"
+            },
+            "DELETE_IMAGE_POPUP": {
+                "TITLE": "Izbriši sliko",
+                "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to sliko?",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Izbriši"
+            },
+            "IMPORT_IMAGE_POPUP": {
+                "TITLE": "Uvozi v album",
+                "DESCRIPTION": "Uvozite sliko v ta album",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Uvozi",
+                "PLACEHOLDER": "URL slike"
+            },
+
+            "NO_PHOTOS": "Ni fotografij ali videoposnetkov",
+            "NO_PHOTOS_INSTRUCTIONS": "Fotografije in videoposnetke lahko posnamete s kamero",
+            "PHOTO_COUNT": "{amount} fotografij",
+            "VIDEO_COUNT": "{amount} videoposnetkov",
+
+            "DELETE_CONTEXT_TITLE": "Ali želite izbrisati {type} ali jih odstraniti iz tega albuma",
+            "THESE_PHOTOS": "te fotografije",
+            "THIS_PHOTO": "to fotografijo",
+            "REMOVE_FROM_ALBUM": "Odstrani iz albuma",
+            "ADD_TO_ALBUM": "Dodaj v album",
+            "ADD_TO_FAVOURITES": "Dodaj med priljubljene",
+            "REMOVE_FROM_FAVOURITES": "Odstrani iz priljubljenih",
+            "VIDEOS": "Videoposnetki",
+            "SELFIES": "Selfiji",
+            "SCREENSHOTS": "Posnetki zaslona",
+            "IMPORTS": "Uvozi",
+            "DUPLICATES": "Podvoji",
+            "YEARS": "Leta",
+            "MONTHS": "Meseci",
+            "DAYS": "Dnevi",
+            "ALL_PHOTOS": "Vse fotografije",
+
+            "FAVOURITES": "Priljubljene",
+            "RECENTS": "Nedavne"
+        },
+        "MAIL": {
+            "TITLE": "E-pošta",
+            "YOU": "Vi",
+            "UPDATED_NOW": "Posodobljeno pravkar",
+            "NEW_MESSAGE": "Novo sporočilo",
+            "INBOX": "Prejeto",
+            "TO": "Za",
+            "FROM": "Od",
+            "SUBJECT": "Zadeva",
+            "MESSAGE": "Sporočilo",
+            "CANCEL": "Prekliči",
+            "SEND": "Pošlji",
+            "EMAIL": "E-pošta",
+            "EMAIL_INVALID": "Neveljaven e-poštni naslov",
+            "EMAIL_EXISTS": "E-poštni naslov že obstaja",
+            "PASSWORD": "Geslo",
+            "WRONG_PASSWORD": "Napačno geslo",
+            "LOGIN": "Prijava",
+            "NO_EMAIL": "Nimate e-poštnega naslova?",
+            "CREATE_ONE": "Ustvarite ga",
+            "UNREAD": "Neprebrano",
+            "CREATE_MAIL": "Ustvari e-pošto",
+            "ALREADY_HAVE": "Že imate e-poštni naslov?",
+            "ADD_EMAIL": "Dodaj e-pošto",
+            "RE": "Odg: {subject}",
+            "CHANGE_ACCOUNT": "Spremeni račun",
+            "CHANGE_PASSWORD": "Spremeni geslo",
+            "DELETE_ACCOUNT": "Izbriši račun",
+            "SIGN_OUT_POPUP": {
+                "TITLE": "Odjava",
+                "DESCRIPTION": "Ali ste prepričani, da se želite odjaviti?",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Nadaljuj"
+            },
+            "DELETE_MAIL_POPUP": {
+                "TITLE": "Izbriši e-pošto",
+                "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to e-pošto?",
+                "CANCEL": "Prekliči",
+                "DELETE": "Izbriši"
+            }
+        },
+        "VOICEMEMO": {
+            "TITLE": "Glasovni zapiski",
+            "VOICE_RECORDINGS": "Glasovni posnetki",
+            "SEARCH_RECORDINGS": "Iskanje posnetkov",
+            "DEFAULT_NAME": "Nov posnetek",
+            "DELETE_POPUP": {
+                "TITLE": "Izbriši glasovni zapisek",
+                "DESCRIPTION": "Ali ste prepričani, da želite izbrisati ta glasovni zapisek?",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Nadaljuj"
+            },
+            "NO_MICROPHONE_POPUP": {
+                "TITLE": "Ni mikrofona",
+                "DESCRIPTION": "Nimamo dostopa do vašega mikrofona, poskrbite, da je priključen in sprejmite pojavno okno v zgornjem desnem kotu zaslona.",
+                "OK": "V redu"
+            },
+            "EMPTY_RECORDING_POPUP": {
+                "TITLE": "Prazen posnetek",
+                "DESCRIPTION": "Ne morete shraniti posnetka brez zvoka",
+                "OK": "V redu"
+            }
+        },
+        "SERVICES": {
+            "ACTIONS": "Dejanja",
+            "COMPANIES": "Podjetja",
+            "MESSAGES": "Sporočila",
+            "SETTINGS": "Nastavitve",
+
+            "CLOSED": "Zaprto",
+            "YOUR_MESSAGES": "Vaša sporočila",
+            "JOB_MESSAGES": "Delovna sporočila",
+
+            "DUTY": "Dolžnost",
+            "DUTY_DESCRIPTION": "Preklopite status dolžnosti",
+            "GO_ON_DUTY": "Na dolžnosti",
+            "GO_OFF_DUTY": "Izven dolžnosti",
+            "JOB_CALLS": "Delovni klici",
+            "JOB_CALLS_DESCRIPTION": "{toggle} prejemanje klicev od strank.",
+
+            "ENABLE": "Omogoči",
+            "DISABLE": "Onemogoči",
+
+            "DISABLE_CALLS": "Onemogoči klice",
+            "ENABLE_CALLS": "Omogoči klice",
+            "BALANCE": "Stanje",
+            "CURRENT_BALANCE": "Trenutno stanje podjetja",
+            "MANAGE_EMPLOYEES": "Upravljaj zaposlene",
+            "HIRE": "Zaposli",
+            "SET_GRADE": "Nastavi stopnjo",
+            "UNEMPLOYED": "Niste zaposleni",
+
+            "ALL": "Vse",
+            "AVAILABLE": "Na voljo",
+            "SEARCH_EMPLOYEES": "Iskanje zaposlenih",
+
+            "PERSONAL": "Osebno",
+            "JOB": "Delo",
+            "PLACEHOLDER": "Besedilno sporočilo",
+            "NOT_DELIVERED": "Ni dostavljeno",
+            "SENT_LOCATION": "Delil/a svojo lokacijo, kliknite za odprtje v Zemljevidih",
+            "SENT_LOCATION_SHORT": "Delil/a lokacijo",
+            "SEND_LOCATION_POPUP": {
+                "TITLE": "Deli lokacijo",
+                "TEXT": "Ali želite deliti svojo lokacijo?",
+                "CANCEL": "Prekliči",
+                "SEND": "Pošlji"
+            },
+            "DELETE_CONVERSATION": {
+                "TITLE": "Izbriši pogovor",
+                "DESCRIPTION": "Ali ste prepričani, da želite izbrisati ta pogovor?",
+                "CANCEL": "Prekliči",
+                "DELETE": "Izbriši"
+            },
+
+            "DEPOSIT_POPUP": {
+                "TITLE": "Polog",
+                "DESCRIPTION": "Polog denarja na račun podjetja",
+                "AMOUNT": "Znesek",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Nadaljuj"
+            },
+            "WITHDRAW_POPUP": {
+                "TITLE": "Dvig",
+                "DESCRIPTION": "Dvig denarja z računa podjetja",
+                "NOT_ENOUGH_MONEY": "Na računu podjetja ni dovolj denarja",
+                "AMOUNT": "Znesek",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Nadaljuj"
+            },
+            "HIRE_POPUP": {
+                "TITLE": "Zaposli",
+                "DESCRIPTION": "Zaposlite novega zaposlenega",
+                "PLACEHOLDER": "ID",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Nadaljuj"
+            },
+            "FIRE_POPUP": {
+                "TITLE": "Odstrani",
+                "DESCRIPTION": "Ali ste prepričani, da želite odpustiti {name}?",
+                "PLACEHOLDER": "ID",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Nadaljuj"
+            }
+        },
+        "POLICE": {
+            "CANCEL": "Prekliči",
+            "CLOSE": "Zapri",
+            "BACK": "Nazaj",
+            "EDIT": "Uredi",
+            "DELETE": "Izbriši",
+            "REMOVE": "Odstrani",
+            "SAVE": "Shrani",
+            "CREATE": "Ustvari",
+            "OK": "V redu",
+            "ADD": "Dodaj",
+            "NEW": "Novo",
+            "PROCEED": "Nadaljuj",
+            "YES": "Da",
+            "NO": "Ne",
+            "ALL": "Vse",
+            "ADD_TAB": "Dodaj zavihek",
+
+            "SEARCH": "Iskanje",
+            "SEARCH_FOR": "Iskanje za {query} za začetek",
+            "NO_RESULTS_FOR": "Ni rezultatov za '{query}'",
+            "CLEAR_HISTORY": "Počisti zgodovino",
+
+            "HOME": {
+                "TITLE": "Domov",
+                "CREATE": "Ustvari",
+
+                "RECENT_REPORTS": "Nedavna poročila",
+                "REPORT_FOOTER": "{timestamp} - {author}",
+                "BULLETIN_BOARD": "Oglasna deska",
+                "PIN": "Pripni",
+                "UNPIN": "Odpni",
+                "SEARCH_BULLETIN": "Iskanje po oglasni deski",
+                "SEARCH_UNITS": "Iskanje enot",
+                "DELETE_BULLETIN": {
+                    "TITLE": "Izbriši objavo",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to objavo na oglasni deski?",
+                    "CANCEL": "Prekliči",
+                    "DELETE": "Izbriši"
+                },
+                "RECENT_WARRANTS": "Nedavna naloga",
+                "ACTIVE_UNITS": "Aktivne enote"
+            },
+            "BULLETIN": {
+                "TITLE": "Oglasna deska",
+                "LABEL": "Oglasna deska",
+                "SEARCH": "Iskanje po oglasni deski",
+                "SEARCH_PLACEHOLDER": "Iskanje po oglasni deski",
+                "SEARCH_FOR": "Iskanje za {query} za začetek",
+                "NO_RESULTS_FOR": "Ni rezultatov za '{query}'",
+                "NEW_BULLETIN": "Nova objava",
+
+                "DELETE_BULLETIN": {
+                    "TITLE": "Izbriši objavo",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to objavo na oglasni deski?"
+                }
+            },
+
+            "DISPATCH": {
+                "TITLE": "Dispečer",
+                "SEARCH_ALARMS": "Iskanje alarmov",
+                "SHOW_OFFICERS": "Pokaži policiste",
+                "SHOW_EMPLOYEES": "Pokaži zaposlene",
+                "SHOW_ALARMS": "Pokaži alarme",
+                "SHOW_POPUPS": "Pokaži pojavna okna",
+                "OPTIONS": "Možnosti",
+                "OFFICERS": "Policisti",
+                "ALARMS": "Alarmi",
+                "MAP": "Zemljevid",
+                "LIST": "Seznam",
+
+                "RESPOND": "Odziv",
+                "RESPONDED": "Odzvano",
+                "COLLAPSE": "Skrči",
+                "EXPAND": "Razširi",
+                "DISMISS": "Opusti",
+                "VIEW_IN_TABLET": "Ogled v tabličnem računalniku",
+                "SET_WAYPOINT": "Nastavi pot",
+                "LOS_SANTOS": "Los Santos",
+                "CAYO_PERICO": "Cayo Perico",
+                "OLD_NOTIFICATION": "{count} staro obvestilo",
+                "OLD_NOTIFICATIONS": "{count} starih obvestil",
+                "NEW_NOTIFICATION": "{count} novo obvestilo",
+                "NEW_NOTIFICATIONS": "{count} novih obvestil",
+
+                "PRIORITY_LEVELS": {
+                    "HIGH": "Visoka",
+                    "MEDIUM": "Srednja",
+                    "LOW": "Nizka"
+                },
+                "PRIORITY": "Prioriteta",
+                "TIME": "Čas",
+                "CODE": "Koda",
+                "LOCATION": "Lokacija",
+                "RESPONDERS": "Odzivniki",
+                "ACTIONS": "Dejanja",
+                "NONE": "Brez",
+                "REMOVE": "Odstrani",
+                "REMOVE_ALL": "Odstrani vse",
+                "VIEW": "Ogled",
+
+                "JUST_NOW": "Pravkar",
+                "MINUTES_AGO": "{minutes}min nazaj",
+                "HOURS_AGO": "{hours}h nazaj",
+                "REMOVE_ALARM": {
+                    "TITLE": "Odstrani alarm",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti alarm? (To bo odstranilo dispečer za vse zaposlene)",
+                    "CANCEL": "Prekliči",
+                    "REMOVE": "Odstrani"
+                },
+                "REMOVE_ALL_ALARMS": {
+                    "TITLE": "Odstrani vse alarme",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti vse alarme? (To bo odstranilo dispečer za vse zaposlene)"
+                },
+
+                "REMOVE_FOR_YOURSELF": "Odstrani zase",
+                "REMOVE_FOR_EVERYONE": "Odstrani za vse"
+            },
+            "UNITS": {
+                "TITLE": "Enota",
+                "AVALIABLE_OFFICERS": "Razpoložljivi policisti",
+                "SEARCH_OFFICERS": "Iskanje policistov",
+                "DROP_OFFICER": "Spusti policista tukaj",
+                "DROP_OFFICER_AVAILABLE": "Spusti policista tukaj, da postane razpoložljiv",
+                "OFFICER": "Policist",
+                "OFFICERS": "Policisti",
+                "NO_UNITS": "Dodaj enoto za začetek",
+                "ADD_UNIT": {
+                    "TITLE": "Dodaj enoto",
+                    "DESCRIPTION": "Ustvari novo enoto",
+                    "PLACEHOLDER": "Ime enote"
+                },
+                "RENAME_UNIT": {
+                    "TITLE": "Preimenuj enoto",
+                    "DESCRIPTION": "Preimenuj enoto",
+                    "PLACEHOLDER": "Ime enote"
+                },
+                "DELETE_UNIT": {
+                    "TITLE": "Izbriši enoto",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to enoto?"
+                }
+            },
+
+            "PROFILES": {
+                "TITLE": "Profil",
+                "PERSON": "Oseba",
+                "SEARCH": "Iskanje profilov",
+                "REMOVE_AVATAR": "Odstrani avatar",
+                "IDENTIFIER": "Identifikator",
+                "FINGERPRINT": "Prstni odtis",
+                "DOB": "Datum rojstva",
+                "PHONE_NR": "Tel. št.",
+                "GENDER": "Spol",
+                "JOB": "Poklic",
+                "MALE": "Moški",
+                "FEMALE": "Ženska",
+                "NOTES": "Opombe",
+                "NOTES_PLACEHOLDER": "Vnesite opombe tukaj...",
+
+                "LICENSES": {
+                    "TITLE": "Dovoljenja",
+                    "ADD_LICENSE": "Dodaj dovoljenje",
+                    "ADD": "Dodaj",
+                    "NO_LICENSES": "Ni dovoljenj",
+                    "REVOKE_LICENSE": {
+                        "TITLE": "Prekliči dovoljenje",
+                        "DESCRIPTION": "Ali ste prepričani, da želite preklicati dovoljenje {license}?",
+                        "CANCEL": "Prekliči",
+                        "REVOKE": "Prekliči"
+                    }
+                },
+
+                "ADD_AVATAR": {
+                    "TITLE": "Dodaj avatar",
+                    "SET_PHOTO": "Nastavi fotografijo",
+                    "PASTE_URL": "Prilepi URL",
+                    "PASTE_URL_DESCRIPTION": "Vnesite URL do slike",
+                    "PASTE_URL_PLACEHOLDER": "URL slike",
+
+                    "INVALID_URL": "Neveljaven URL",
+                    "INVALID_URL_DESCRIPTION": "URL, ki ste ga vnesli, ni veljaven URL slike",
+                    "OK": "V redu"
+                },
+
+                "VEHICLES": "Vozila",
+                "NO_VEHICLES": "Ni vozil",
+                "PROPERTIES": "Nepremičnine",
+                "NO_PROPERTIES": "Ni nepremičnin",
+                "REPORTS": "Poročila",
+                "NO_REPORTS": "Ni poročil",
+                "CASES": "Primeri",
+                "NO_CASES": "Ni primerov",
+                "WEAPONS": "Orožja",
+                "NO_WEAPONS": "Ni orožja",
+                "WARRANTS": "Nalogi",
+                "NO_WARRANTS": "Ni nalog",
+                "ACTIVE_WARRANTS": "Aktivni nalogi",
+                "INVOLVED": "Vpleteni",
+                "CHARGES": "Obtožbe",
+                "NO_CHARGES": "Ni obtožb"
+            },
+
+            "VEHICLES": {
+                "TITLE": "Vozila",
+                "VEHICLE": "Vozilo",
+                "SEARCH": "Iskanje vozil",
+                "REMOVE_PICTURE": "Odstrani sliko",
+                "DETAILS": "Podrobnosti",
+
+                "ADD_PHOTO": {
+                    "TITLE": "Dodaj fotografijo",
+                    "SELECT_PHOTO": "Izberi fotografijo",
+                    "PASTE_URL": "Prilepi URL",
+                    "PASTE_URL_DESCRIPTION": "Vnesite URL do slike",
+                    "PASTE_URL_PLACEHOLDER": "URL slike",
+
+                    "INVALID_URL": "Neveljaven URL",
+                    "INVALID_URL_DESCRIPTION": "URL, ki ste ga vnesli, ni veljaven URL slike",
+                    "OK": "V redu"
+                },
+                "MODEL": "Model",
+                "PLATE": "Tablica",
+                "COLOR": "Barva",
+                "LOCATION": "Lokacija",
+                "OWNER": "Lastnik",
+                "NOTES": "Opombe",
+                "NOTES_PLACEHOLDER": "Vnesite opombe tukaj...",
+                "SET_WAYPOINT": "Nastavi pot",
+                "OPEN_IN_MAPS": "Odpri v Zemljevidih",
+                "WAYPOINT_SET": "Pot nastavljena",
+                "WAYPOINT_SET_DESCRIPTION": "Pot je bila nastavljena na lokacijo vozila",
+                "CASES": "Primeri",
+                "NO_CASES": "Ni primerov",
+                "WARRANTS": "Nalogi",
+                "NO_WARRANTS": "Ni nalog",
+                "ACTIVE_WARRANTS": "Aktivni nalogi"
+            },
+            "PROPERTIES": {
+                "TITLE": "Nepremičnine",
+                "PROPERTY": "Nepremičnina",
+                "SEARCH": "Iskanje nepremičnin",
+                "REMOVE_PICTURE": "Odstrani sliko",
+                "DETAILS": "Podrobnosti",
+                "ADD_PHOTO": {
+                    "TITLE": "Dodaj fotografijo",
+                    "SELECT_PHOTO": "Izberi fotografijo",
+                    "PASTE_URL": "Prilepi URL",
+                    "PASTE_URL_DESCRIPTION": "Vnesite URL do slike",
+                    "PASTE_URL_PLACEHOLDER": "URL slike",
+
+                    "INVALID_URL": "Neveljaven URL",
+                    "INVALID_URL_DESCRIPTION": "URL, ki ste ga vnesli, ni veljaven URL slike",
+                    "OK": "V redu"
+                },
+                "LABEL": "Oznaka",
+                "ADDRESS": "Naslov",
+                "OWNER": "Lastnik",
+                "LOCATION": "Lokacija",
+                "OPEN_IN_MAPS": "Odpri v Zemljevidih",
+                "NOTES": "Opombe",
+                "NOTES_PLACEHOLDER": "Vnesite opombe tukaj..."
+            },
+            "WEAPONS": {
+                "TITLE": "Orožja",
+                "WEAPON": "Orožje",
+                "SEARCH": "Iskanje orožja",
+                "REMOVE_PICTURE": "Odstrani sliko",
+                "DETAILS": "Podrobnosti",
+                "ADD_PHOTO": {
+                    "TITLE": "Dodaj fotografijo",
+                    "SELECT_PHOTO": "Izberi fotografijo",
+                    "PASTE_URL": "Prilepi URL",
+                    "PASTE_URL_DESCRIPTION": "Vnesite URL do slike",
+                    "PASTE_URL_PLACEHOLDER": "URL slike",
+
+                    "INVALID_URL": "Neveljaven URL",
+                    "INVALID_URL_DESCRIPTION": "URL, ki ste ga vnesli, ni veljaven URL slike",
+                    "OK": "V redu"
+                },
+                "MODEL_MAKE": "Model",
+                "SERIAL_NUMBER": "Serijska št.",
+                "NOTES": "Opombe",
+                "NOTES_PLACEHOLDER": "Vnesite opombe tukaj...",
+                "LINKED_REPORTS": "Povezana poročila",
+                "NO_LINKED_REPORTS": "Ni povezanih poročil",
+                "LINKED_CASES": "Povezani primeri",
+                "NO_LINKED_CASES": "Ni povezanih primerov",
+                "UNREGISTERED": "Neregistrirano",
+                "OWNER": "Lastnik",
+                "SELECT_MODEL": "Izberi model",
+                "SELECT_OWNER": "Izberi lastnika",
+                "DELETE_WEAPON": {
+                    "TITLE": "Izbriši orožje",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to orožje?"
+                }
+            },
+
+            "REPORTS": {
+                "TITLE": "Poročila",
+                "REPORT": "Poročilo",
+                "SEARCH": "Iskanje poročil",
+                "FOOTER": "{author} - ID poročila: {id}",
+                "NEW_REPORT_TITLE": "Novo poročilo",
+                "TYPE": "Vrsta",
+                "DESCRIPTION": "Opis",
+                "DESCRIPTION_PLACEHOLDER": "Vnesite opis...",
+                "GALLERY": "Galerija",
+                "NO_ATTACHMENTS": "Ni prilog",
+                "WEAPONS_INVOLVED": "Vključeno orožje",
+                "NO_WEAPONS_INVOLVED": "Ni vključenega orožja",
+                "REMOVE_WEAPON": {
+                    "TITLE": "Odstrani orožje",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti orožje iz poročila?"
+                },
+                "OFFICERS_INVOLVED": "Vključeni policisti",
+                "NO_OFFICERS_INVOLVED": "Ni vključenih policistov",
+                "REMOVE_OFFICER": {
+                    "TITLE": "Odstrani policista",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti {name} iz poročila?"
+                },
+                "CIVILLIANS_INVOLVED": "Vključeni civilisti",
+                "NO_CIVILLIANS_INVOLVED": "Ni vključenih civilistov",
+                "REMOVE_CIVILIAN": {
+                    "TITLE": "Odstrani civilista",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti {name} iz poročila?"
+                },
+                "SUSPECTS_INVOLVED": "Vključeni osumljenci",
+                "NO_SUSPECTS_INVOLVED": "Ni vključenih osumljencev",
+                "REMOVE_SUSPECT": {
+                    "TITLE": "Odstrani osumljenca",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti {name} iz poročila?"
+                },
+                "DELETE_REPORT": {
+                    "TITLE": "Izbriši poročilo",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to poročilo?"
+                },
+                "ERROR": {
+                    "TITLE": "Napaka",
+                    "NO_TYPE": "Izbrati morate vrsto poročila",
+                    "TITLE_LENGTH": "Naslov mora biti dolg vsaj 3 znake",
+                    "DESCRIPTION_LENGTH": "Opis mora biti dolg vsaj 10 znakov"
+                }
+            },
+
+            "CASES": {
+                "TITLE": "Primeri",
+                "SEARCH": "Iskanje primerov",
+                "CASE": "Primer",
+                "FOOTER": "{author} - ID primera: {id}",
+                "TITLE_PLACEHOLDER": "Nov primer",
+                "DESCRIPTION": "Opis",
+                "DESCRIPTION_PLACEHOLDER": "Vnesite opis...",
+                "EVIDENCE": "Dokazi",
+                "NO_EVIDENCE": "Ni priloženih dokazov",
+                "OPEN_STASH": "Odpri shrambo",
+                "VEHICLES_INVOLVED": "Vključena vozila",
+                "NO_VEHICLES_INVOLVED": "Ni vključenih vozil",
+                "VIEW_PROFILE": "Ogled profila",
+                "CHARGES": "{amount} obtožb",
+                "NO_CHARGES": "Ni obtožb",
+                "REMOVE_VEHICLE": {
+                    "TITLE": "Odstrani vozilo",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti vozilo iz primera?"
+                },
+
+                "REMOVE_WARRANT": {
+                    "TITLE": "Odstrani nalog",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti nalog iz primera?"
+                },
+                "OFFICERS_INVOLVED": "Vključeni policisti",
+                "NO_OFFICERS_INVOLVED": "Ni vključenih policistov",
+                "REMOVE_OFFICER": {
+                    "TITLE": "Odstrani policista",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti policista iz primera?"
+                },
+                "CIVILLIANS_INVOLVED": "Vključeni civilisti",
+                "NO_CIVILLIANS_INVOLVED": "Ni vključenih civilistov",
+                "REMOVE_CIVILIAN": {
+                    "TITLE": "Odstrani civilista",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti civilista iz primera?"
+                },
+                "CRIMINALS_INVOLVED": "Vključeni kriminalci",
+                "NO_CRIMINALS_INVOLVED": "Ni vključenih kriminalcev",
+                "REMOVE_CRIMINAL": {
+                    "TITLE": "Odstrani kriminalca",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti kriminalca iz primera?"
+                },
+                "ADD_CHARGE": "Dodaj obtožbo",
+                "FINE": "Globina ({amount} priporočeno)",
+                "SENTENCE": "Kazen ({amount} mesecev priporočeno)",
+                "SEND_FINE": {
+                    "TITLE": "Pošlji globo",
+                    "DESCRIPTION": "Ali želite poslati {fine} globo {name}?"
+                },
+                "JAIL_PLAYER": {
+                    "TITLE": "Zapri igralca",
+                    "DESCRIPTION": "Ali želite poslati {name} v zapor za {sentence} mesecev?",
+                    "JAILED_DESCRIPTION": "Samodejno zaprt za {charges}"
+                },
+                "DELETE_CASE": {
+                    "TITLE": "Izbriši primer",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati ta primer?"
+                },
+
+                "ERROR": {
+                    "TITLE": "Napaka",
+                    "TITLE_LENGTH": "Naslov mora biti dolg vsaj 3 znake",
+                    "DESCRIPTION_LENGTH": "Opis mora biti dolg vsaj 10 znakov",
+                    "OK": "V redu"
+                }
+            },
+
+            "WARRANTS": {
+                "TITLE": "Nalogi",
+                "SEARCH": "Iskanje nalogov",
+
+                "HIGH_PRIORITY": "Visoka prioriteta",
+                "MEDIUM_PRIORITY": "Srednja prioriteta",
+                "LOW_PRIORITY": "Nizka prioriteta",
+                "FOOTER": "{author} - ID naloga: {id}",
+                "TITLE_PLACEHOLDER": "Nov nalog",
+                "DESCRIPTION": "Opis",
+                "DESCRIPTION_PLACEHOLDER": "Vnesite opis...",
+                "TYPE": "Vrsta",
+                "STATUS": "Status",
+                "PRIORITY": "Prioriteta",
+                "GALLERY": "Galerija",
+                "NO_ATTACHMENTS": "Ni prilog",
+                "LINKED_REPORTS": "Povezana poročila",
+                "NO_LINKED_REPORTS": "Ni povezanih poročil",
+                "SELECT_VEHICLE": "Izberi vozilo",
+                "NO_VEHICLE_SELECTED": "Ni izbranega vozila",
+                "SELECT_PERSON": "Izberi osebo",
+                "NO_PERSON_SELECTED": "Ni izbrane osebe",
+                "ACTIVE": "Aktiven",
+                "INACTIVE": "Neaktiven",
+                "CLOSED": "Zaključen",
+                "REMOVE_REPORT": {
+                    "TITLE": "Odstrani poročilo",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti poročilo iz naloga?"
+                },
+                "DELETE_WARRANT": {
+                    "TITLE": "Izbriši nalog",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati ta nalog?"
+                },
+                "ERROR": {
+                    "TITLE": "Napaka",
+                    "TITLE_LENGTH": "Naslov mora biti dolg vsaj 3 znake",
+                    "DESCRIPTION_LENGTH": "Opis mora biti dolg vsaj 10 znakov",
+                    "NO_TYPE": "Izbrati morate vrsto naloga",
+                    "NO_TARGET": "Izbrati morate cilj za nalog",
+                    "OK": "V redu"
+                }
+            },
+            "EVIDENCE": {
+                "TITLE": "Dokazi"
+            },
+
+            "OFFENCES": {
+                "TITLE": "Kazniva dejanja",
+                "SEARCH": "Iskanje kaznivih dejanj",
+                "MONTHS": "{amount} mesecev",
+                "FINE": "{amount} globa",
+
+                "SELECT_SEVERITY": "Izberi resnost",
+                "SEVERITIES": {
+                    "INFRACTION": "Prekršek",
+                    "MISDEMEANOR": "Prestopek",
+                    "FELONY": "Kaznivo dejanje"
+                },
+                "NO_OFFENCES_FOUND": "Ni najdenih kaznivih dejanj",
+                "ADD_OFFENCE": {
+                    "TITLE": "Dodaj kaznivo dejanje",
+                    "DESCRIPTION": "Ustvari novo kaznivo dejanje",
+                    "PLACEHOLDER": "Vnesite naslov kaznivega dejanja",
+                    "DESCRIPTION_PLACEHOLDER": "Vnesite opis..."
+                },
+                "EDIT_OFFENCE": {
+                    "TITLE": "Uredi kaznivo dejanje",
+                    "DESCRIPTION": "Uredi podrobnosti kaznivega dejanja"
+                },
+                "SET_JAILTIME": {
+                    "TITLE": "Priporočena zaporna kazen",
+                    "DESCRIPTION": "Nastavi priporočeno zaporno kazen za kaznivo dejanje",
+                    "PLACEHOLDER": "Priporočena zaporna kazen (v mesecih) (0 samo za globo)"
+                },
+                "SET_FINE": {
+                    "TITLE": "Priporočena globa",
+                    "DESCRIPTION": "Nastavi priporočeno globo za kaznivo dejanje",
+                    "PLACEHOLDER": "Priporočeni znesek globe (0 samo za zaporno kazen)"
+                },
+
+                "DELETE_OFFENCE": {
+                    "TITLE": "Izbriši kaznivo dejanje",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to kaznivo dejanje?"
+                },
+                "ADD_CATEGORY": {
+                    "TITLE": "Dodaj kategorijo",
+                    "DESCRIPTION": "Dodaj novo kategorijo na seznam kaznivih dejanj",
+                    "PLACEHOLDER": "Vnesite ime kategorije"
+                },
+                "EDIT_CATEGORY": {
+                    "TITLE": "Uredi kategorijo",
+                    "DESCRIPTION": "Uredi podrobnosti kategorije",
+                    "PLACEHOLDER": "Vnesite novo ime kategorije"
+                },
+                "DELETE_CATEGORY": {
+                    "TITLE": "Izbriši kategorijo",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to kategorijo?"
+                }
+            },
+
+            "EMPLOYEES": {
+                "TITLE": "Zaposleni",
+                "SEARCH": "Iskanje zaposlenih"
+            },
+
+            "CHAT": {
+                "TITLE": "Klepet",
+                "SEARCH": "Iskanje klepetov",
+                "PLACEHOLDER": "Pošlji sporočilo...",
+                "JOINED_CHATS": "Pridruženi klepeti",
+                "PUBLIC_CHATS": "Javni klepeti",
+                "JOINED": "Pridružen",
+                "PUBLIC": "Javen",
+                "PRIVATE_CHATS": "Zasebni klepeti",
+                "ROOM_ID": "ID sobe: {id}",
+                "TOGGLE_PRIVATE": "Preklopi na zasebno",
+                "CHANGE_AVATAR": "Spremeni avatar",
+                "SET_AVATAR": "Nastavi avatar",
+                "REMOVE_AVATAR": "Odstrani avatar",
+                "MANAGE": "Upravljaj",
+                "LEAVE": {
+                    "TITLE": "Zapusti",
+                    "DESCRIPTION": "Ali ste prepričani, da želite zapustiti klepetno sobo?"
+                },
+                "KICK": {
+                    "TITLE": "Vrži ven",
+                    "DESCRIPTION": "Ali ste prepričani, da želite vreči {name} iz klepetne sobe?"
+                },
+
+                "CREATE_CHATROOM": {
+                    "TITLE": "Ustvari klepetno sobo",
+                    "DESCRIPTION": "Vnesite ime za klepetno sobo",
+                    "PLACEHOLDER": "Ime klepetne sobe",
+                    "CREATE": "Ustvari",
+                    "SET_VISIBILITY": "Nastavi vidnost",
+                    "PUBLIC": "Javno",
+                    "PRIVATE": "Zasebno"
+                },
+                "JOIN_CHAT": {
+                    "TITLE": "Pridruži se klepetu",
+                    "DESCRIPTION": "Ali ste prepričani, da se želite pridružiti {channel}?",
+                    "JOIN": "Pridruži se"
+                },
+                "ERROR": {
+                    "TITLE": "Napaka",
+                    "FAILED_JOIN": "Pridružitev klepetni sobi ni uspela",
+                    "FAILED_INVITE": "Povabilo {name} v klepetno sobo ni uspelo",
+                    "FAILED_SET_AVATAR": "Nastavitev avatara klepetne sobe ni uspela",
+                    "FAILED_REMOVE_AVATAR": "Odstranitev avatara klepetne sobe ni uspela",
+                    "FAILED_GET_MEMBERS": "Pridobivanje članov klepetne sobe ni uspelo",
+                    "FAILED_KICK": "Vrženje {name} iz klepetne sobe ni uspelo",
+                    "FAILED_LEAVE": "Zapustitev klepetne sobe ni uspela"
+                },
+                "SUCCESS": {
+                    "TITLE": "Uspešno",
+                    "INVITED": "Povabili ste {name} v klepetno sobo",
+                    "KICKED": "Vrgli ste {name} iz klepetne sobe"
+                }
+            },
+
+            "PHONE": {
+                "TITLE": "Telefon",
+                "MESSAGES": "Sporočila",
+
+                "TRIANGULATE": {
+                    "TITLE": "Triangulacija",
+                    "DESCRIPTION": "Vnesite telefonsko številko, ki jo želite triangulirati",
+                    "PLACEHOLDER": "Telefonska številka",
+
+                    "SUCCESS": {
+                        "TITLE": "Triangulacija uspešna",
+                        "DESCRIPTION": "Telefonska številka, ki jo poskušate triangulirati, je registrirana na celičnem stolpu na tem območju. Preverite zemljevid za lokacijo."
+                    },
+                    "FAILED": {
+                        "TITLE": "Triangulacija ni uspela",
+                        "DESCRIPTION": "Telefonska številka, ki jo poskušate triangulirati, ni registrirana na nobenem celičnem stolpu na tem območju."
+                    }
+                },
+                "CALLS": {
+                    "TITLE": "Klici",
+                    "CALL_HISTORY": "Zgodovina klicev",
+                    "CALL_STATUS": "Status klicev",
+                    "SEARCH": "Iskanje klicev",
+                    "NO_CALLER_ID": "Brez klicateljevega ID-ja",
+                    "UNKNOWN": "Neznano",
+                    "INCOMING": "Dohodni",
+                    "OUTGOING": "Odhodni",
+                    "IN_CALL": "V klicu",
+                    "NOT_IN_CALL": "Ni v klicu",
+                    "SUBSCRIBED": "Naročeno",
+                    "NOT_SUBSCRIBED": "Ni naročeno",
+                    "YES": "Da",
+                    "NO": "Ne",
+                    "GET_NOTIFIED": "Prejmi obvestilo",
+                    "LISTEN_TO_CALL": "Poslušaj klic",
+                    "LISTEN_TO_CALL_DESCRIPTION": "Ali ste prepričani, da želite poslušati ta klic?",
+                    "STOP_LISTENING": "Nehaj poslušati",
+                    "STOP_LISTENING_DESCRIPTION": "Ali ste prepričani, da želite nehati poslušati ta klic?",
+                    "SUBSCRIBE_TO_CALLS": "Naroči se na klice",
+                    "SUBSCRIBE_TO_CALLS_DESCRIPTION": "Ali ste prepričani, da se želite naročiti na klice?",
+                    "UNSUBSCRIBE_FROM_CALLS": "Odjavi se od klicev",
+                    "UNSUBSCRIBE_FROM_CALLS_DESCRIPTION": "Ali ste prepričani, da se želite odjaviti od klicev?",
+                    "FOOTER": "avtor {name}",
+
+                    "WIRETAP_PHONENUMBER": {
+                        "TITLE": "Prisluhni telefonski številki",
+                        "DESCRIPTION": "Vnesite telefonsko številko, ki ji želite prisluškovati",
+                        "PLACEHOLDER": "Telefonska številka"
+                    },
+                    "REMOVE_WIRETAP": {
+                        "TITLE": "Odstrani prisluškovanje",
+                        "DESCRIPTION": "Ali ste prepričani, da želite odstraniti prisluškovanje telefonski številki {phoneNumber}?"
+                    },
+
+                    "CALL_ENDED": {
+                        "TITLE": "Klic končan",
+                        "DESCRIPTION": "Klic, ki mu prisluškujete, se je končal."
+                    }
+                },
+                "UNLOCK": {
+                    "TITLE": "Odkleni",
+                    "NO_PHONES": "V vašem inventarju ni telefonov",
+                    "SEARCH": "Iskanje telefona",
+                    "SELECT_PHONE": "Izberi telefon",
+                    "PHONE": "Telefon",
+                    "PROCESSED": "Obdelano",
+                    "PROCESSING": "Obdelava",
+                    "LOCKED": "Zaklenjeno",
+                    "PROCESS_PHONE": "Obdelaj telefon",
+                    "PHONE_PROCESSED": "Telefon obdelan",
+                    "REMAINING_TIME": "Preostali čas: {time}",
+                    "PROCESSING_PHONE": "Obdelava {phone}...",
+                    "ATTEMPTS": "Poskusi: {attempts}/{maxAttempts}",
+                    "RESET_PIN": {
+                        "TITLE": "Ponastavi PIN",
+                        "SUCCESS": "PIN za telefon je bil uspešno ponastavljen."
+                    },
+                    "SUCCESS": {
+                        "TITLE": "Telefon obdelan",
+                        "DESCRIPTION": "Telefon je bil uspešno obdelan."
+                    },
+                    "FAILED": {
+                        "TITLE": "Obdelava telefona ni uspela",
+                        "DESCRIPTION": "Telefona ni bilo mogoče obdelati. Poskusite znova."
+                    }
+                }
+            },
+
+            "JAIL": {
+                "TITLE": "Zapor",
+                "SEARCH": "Iskanje zapornikov",
+                "JAILED_PERSON": "Zapornik",
+                "JAILED_BY": "Zaprl",
+                "JAILED_BY_NAME": "Zaprl {name}",
+                "REMAINING_TIME": "Preostali čas",
+                "REMAINING_TIME_DATE": "Preostali čas {time} ({date})",
+                "ORIGINAL_SENTENCE": "Prvotna kazen",
+                "RELEASE_DATE": "Datum izpusta",
+                "DESCRIPTION": "Opis",
+                "DESCRIPTION_PLACEHOLDER": "Vnesite opis...",
+                "RELEASED": "Izpust",
+                "LESS_THAN_MINUTE": "Manj kot minuta",
+                "UNJAIL": "Odpusti",
+                "PROFILE": "Profil",
+                "JAILED_AT": "Zaprt ob",
+                "LINKED_CASE": "Povezan primer",
+                "NO_LINKED_CASE": "Ni povezanega primera",
+                "REMOVE_LINKED_CASE": {
+                    "TITLE": "Odstrani povezan primer",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti povezan primer?"
+                },
+                "JAIL_PERSON": {
+                    "TITLE": "Zapri",
+                    "DESCRIPTION": "Izpolnite podrobnosti za zaprtje {name}",
+                    "SENTENCE_PLACEHOLDER": "Kazen (v minutah)",
+                    "REASON_PLACEHOLDER": "Razlog",
+                    "JAIL_WITH_CASE": "Zapri s povezanim primerom",
+                    "JAIL_WITHOUT_CASE": "Zapri brez povezanega primera",
+                    "PROCEED": "Nadaljuj"
+                },
+                "UNJAIL_PERSON": {
+                    "TITLE": "Odpusti",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odpustiti {name}?",
+                    "PROCEED": "Nadaljuj"
+                },
+                "ERROR": {
+                    "TITLE": "Napaka",
+                    "MISSING_DETAILS": "Vnesti morate kazen in razlog"
+                }
+            },
+
+            "LOGS": {
+                "TITLE": "Dnevniki",
+                "SEARCH": "Iskanje dnevnikov",
+                "FILTER": "Filter",
+                "CREATED": "Ustvarjeno",
+                "UPDATED": "Posodobljeno",
+                "DELETED": "Izbrisano",
+                "VIEW_FOOTER": "Ogled {type} ({id})",
+                "TAG_TYPES": {
+                    "PROFILE": "profil",
+                    "VEHICLE": "vozilo",
+                    "REPORT": "poročilo",
+                    "WARRANT": "nalog",
+                    "INCIDENT": "primer"
+                },
+
+                "CREATE_TAG_TITLE": "Ustvarjena oznaka",
+                "CREATE_TAG_DESCRIPTION": "Ustvarjena oznaka {type} \"{name}\"",
+                "DELETE_TAG_TITLE": "Izbrisana oznaka",
+                "DELETE_TAG_DESCRIPTION": "Izbrisana oznaka {type} \"{name}\"",
+                "UPDATE_PROFILE_TITLE": "Posodobljen profil",
+                "UPDATE_PROFILE_DESCRIPTION": "Posodobljen profil {name}",
+                "UPDATE_VEHICLE_TITLE": "Posodobljeno vozilo",
+                "UPDATE_VEHICLE_DESCRIPTION": "Posodobljeno vozilo {plate}",
+                "UPDATE_PROPERTY_TITLE": "Posodobljena nepremičnina",
+                "UPDATE_PROPERTY_DESCRIPTION": "Posodobljena nepremičnina",
+                "UPDATE_WEAPON_TITLE": "Posodobljeno orožje",
+                "UPDATE_WEAPON_DESCRIPTION": "Posodobljeno orožje s serijsko številko {serial}",
+                "CREATE_REPORT_TITLE": "Ustvarjeno poročilo",
+                "CREATE_REPORT_DESCRIPTION": "Ustvarjeno poročilo {type} z naslovom \"{title}\"",
+                "UPDATE_REPORT_TITLE": "Posodobljeno poročilo",
+                "UPDATE_REPORT_DESCRIPTION": "Posodobljeno poročilo {type} z naslovom \"{title}\"",
+                "DELETE_REPORT_TITLE": "Izbrisano poročilo",
+                "DELETE_REPORT_DESCRIPTION": "Izbrisano poročilo z ID-jem {id}",
+                "ISSUED_LICENSE_TITLE": "Izdano dovoljenje",
+                "ISSUED_LICENSE_DESCRIPTION": "Izdano dovoljenje {license} za {name}",
+                "REVOKED_LICENSE_TITLE": "Preklicano dovoljenje",
+                "REVOKED_LICENSE_DESCRIPTION": "Preklicano dovoljenje {license} od {name}",
+                "PINNED_BULLETIN_TITLE": "Pripeta objava",
+                "PINNED_BULLETIN_DESCRIPTION": "Pripeta objava z ID-jem {id}",
+                "UNPINNED_BULLETIN_TITLE": "Odpeta objava",
+                "UNPINNED_BULLETIN_DESCRIPTION": "Odpeta objava z ID-jem {id}",
+                "CREATE_BULLETIN_TITLE": "Ustvarjena objava",
+                "CREATE_BULLETIN_DESCRIPTION": "Ustvarjena objava z naslovom \"{title}\"",
+                "UPDATE_BULLETIN_TITLE": "Posodobljena objava",
+                "UPDATE_BULLETIN_DESCRIPTION": "Posodobljena objava z naslovom \"{title}\"",
+                "DELETE_BULLETIN_TITLE": "Izbrisana objava",
+                "DELETE_BULLETIN_DESCRIPTION": "Izbrisana objava z ID-jem {id}",
+                "CREATE_WARRANT_TITLE": "Ustvarjen nalog",
+                "CREATE_WARRANT_DESCRIPTION": "Ustvarjen nalog {type}z naslovom \"{title}\"",
+                "UPDATE_WARRANT_TITLE": "Posodobljen nalog",
+                "UPDATE_WARRANT_DESCRIPTION": "Posodobljen nalog \"{title}\"",
+                "CREATE_CASE_TITLE": "Ustvarjen primer",
+                "CREATE_CASE_DESCRIPTION": "Ustvarjen primer z naslovom \"{title}\"",
+                "UPDATE_CASE_TITLE": "Posodobljen primer",
+                "UPDATE_CASE_DESCRIPTION": "Posodobljen primer z naslovom \"{title}\"",
+                "DELETE_CASE_TITLE": "Izbrisan primer",
+                "DELETE_CASE_DESCRIPTION": "Izbrisan primer z ID-jem {id}"
+            },
+
+            "TAGS": {
+                "TITLE": "Oznake",
+                "ADD": "Dodaj",
+                "NO_TAGS": "Ni oznak",
+                "CREATE_TAG": {
+                    "TITLE": "Ustvari oznako",
+                    "DESCRIPTION": "Vnesite ime oznake",
+                    "PLACEHOLDER": "Ime oznake",
+                    "CANCEL": "Prekliči",
+                    "NEXT": "Naprej",
+                    "SELECT_COLOR": "Izberi barvo"
+                },
+                "DELETE_TAG": {
+                    "TITLE": "Izbriši oznako",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to oznako?",
+                    "CANCEL": "Prekliči",
+                    "DELETE": "Izbriši"
+                },
+                "REMOVE_TAG": {
+                    "TITLE": "Odstrani oznako",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti oznako '{tag}'?",
+                    "CANCEL": "Prekliči",
+                    "REMOVE": "Odstrani"
+                }
+            },
+            "MISC": {
+                "SOON": "Kmalu",
+                "UNKNOWN": "Neznano",
+                "MINUTES": "{minutes}min",
+                "HOURS": "{hours}h",
+                "DAYS": "{days}d",
+                "FORMATTED_DATE": "{day} {month} {year} ob {hours}:{minutes}",
+                "CHANGE_AVATAR": "Spremeni avatar",
+                "REMOVE_AVATAR": "Odstrani avatar",
+                "SET_CALLSIGN": "Nastavi klicni znak",
+                "CALLSIGN": {
+                    "TITLE": "Klicni znak",
+                    "DESCRIPTION": "Vnesite klicni znak",
+                    "CANCEL": "Prekliči",
+                    "PROCEED": "Nadaljuj",
+                    "ERROR": {
+                        "TITLE": "Napaka",
+                        "DESCRIPTION": "Klicni znak, ki ste ga vnesli, ne ustreza zahtevani obliki ({format}). Poskusite znova."
+                    }
+                }
+            }
+        },
+        "AMBULANCE": {
+            "TITLE": "Nujna pomoč",
+
+            "SEARCH": "Iskanje",
+            "CANCEL": "Prekliči",
+            "CLOSE": "Zapri",
+            "BACK": "Nazaj",
+            "EDIT": "Uredi",
+            "DELETE": "Izbriši",
+            "REMOVE": "Odstrani",
+            "SAVE": "Shrani",
+            "CREATE": "Ustvari",
+            "PROCEED": "Nadaljuj",
+            "OK": "V redu",
+            "ADD": "Dodaj",
+            "NEW": "Novo",
+
+            "SEARCH_FOR": "Iskanje za {query} za začetek",
+            "NO_RESULTS_FOR": "Ni rezultatov za '{query}'",
+            "CLEAR_HISTORY": "Počisti zgodovino",
+
+            "HOME": {
+                "TITLE": "Domov",
+                "CREATE": "Ustvari",
+
+                "RECENT_REPORTS": "Nedavna poročila",
+                "REPORT_FOOTER": "{timestamp} - {author}",
+                "BULLETIN_BOARD": "Oglasna deska",
+                "PIN": "Pripni",
+                "UNPIN": "Odpni",
+                "SEARCH_BULLETIN": "Iskanje po oglasni deski",
+                "SEARCH_UNITS": "Iskanje enot",
+                "ADD_BULLETIN": {
+                    "TITLE": "Dodaj objavo",
+                    "DESCRIPTION": "Ustvari novo objavo",
+                    "PLACEHOLDER": "Naslov",
+                    "CONTENT": "Vsebina",
+                    "CANCEL": "Prekliči",
+                    "PROCEED": "Nadaljuj"
+                },
+                "DELETE_BULLETIN": {
+                    "TITLE": "Izbriši objavo",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to objavo?",
+                    "CANCEL": "Prekliči",
+                    "DELETE": "Izbriši"
+                },
+                "ACTIVE_UNITS": "Aktivne enote"
+            },
+            "BULLETIN": {
+                "TITLE": "Oglasna deska"
+            },
+            "DISPATCH": {
+                "TITLE": "Dispečer",
+                "TOGGLE_EMPLOYEES": "Preklopi zaposlene",
+                "TOGGLE_ALARMS": "Preklopi alarme",
+                "EMPLOYEES": "Zaposleni",
+                "ALARMS": "Alarmi",
+
+                "RESPOND": "Odziv",
+                "RESPONDED": "Odzvano",
+                "COLLAPSE": "Skrči",
+                "EXPAND": "Razširi",
+                "DISMISS": "Opusti",
+                "VIEW_IN_TABLET": "Ogled v tabličnem računalniku",
+                "SET_WAYPOINT": "Nastavi pot",
+                "OLD_NOTIFICATION": "{count} staro obvestilo",
+                "OLD_NOTIFICATIONS": "{count} starih obvestil",
+                "NEW_NOTIFICATION": "{count} novo obvestilo",
+                "NEW_NOTIFICATIONS": "{count} novih obvestil",
+
+                "PRIORITY_LEVELS": {
+                    "HIGH": "Visoka",
+                    "MEDIUM": "Srednja",
+                    "LOW": "Nizka"
+                },
+
+                "JUST_NOW": "Pravkar",
+                "MINUTES_AGO": "{minutes}min nazaj",
+                "HOURS_AGO": "{hours}h nazaj"
+            },
+            "UNITS": {
+                "TITLE": "Enota",
+                "EMPLOYEE": "Zaposleni",
+                "EMPLOYEES": "Zaposleni",
+                "AVALIABLE_EMPLOYEES": "Razpoložljivi zaposleni",
+                "SEARCH_EMPLOYEES": "Iskanje zaposlenih",
+                "DROP_EMPLOYEE": "Spusti zaposlenega",
+                "DROP_EMPLOYEE_AVAILABLE": "Spusti zaposlenega tukaj, da postane razpoložljiv"
+            },
+
+            "JOURNALS": {
+                "TITLE": "Dnevniki",
+                "PROFILES": "Profili",
+                "PERSON": "Oseba",
+                "SEARCH": "Iskanje profilov",
+                "REMOVE_AVATAR": "Odstrani avatar",
+                "IDENTIFIER": "Identifikator",
+                "FINGERPRINT": "Prstni odtis",
+                "DOB": "Datum rojstva",
+                "PHONE_NR": "Tel. št.",
+                "GENDER": "Spol",
+                "JOB": "Poklic",
+                "MALE": "Moški",
+                "FEMALE": "Ženska",
+                "HEIGHT": "Višina",
+                "HEIGHT_FORMAT": "{height}cm",
+                "BLOOD_TYPE": "Krvna skupina",
+                "NOTES": "Opombe",
+                "NOTES_PLACEHOLDER": "Vnesite opombe tukaj...",
+                "DIAGNOSES_DISEASES": "Diagnoze / Bolezni",
+                "NO_DIAGNOSES": "Ni diagnoz / bolezni",
+                "REPORTS": "Poročila",
+                "NO_REPORTS": "Ni poročil",
+
+                "ADD_AVATAR": {
+                    "TITLE": "Dodaj avatar",
+                    "SET_PHOTO": "Nastavi fotografijo",
+                    "PASTE_URL": "Prilepi URL",
+                    "PASTE_URL_DESCRIPTION": "Vnesite URL do slike",
+                    "PASTE_URL_PLACEHOLDER": "URL slike",
+
+                    "INVALID_URL": "Neveljaven URL",
+                    "INVALID_URL_DESCRIPTION": "URL, ki ste ga vnesli, ni veljaven URL slike",
+                    "OK": "V redu"
+                }
+            },
+
+            "REPORTS": {
+                "TITLE": "Poročila",
+                "REPORT": "Poročilo",
+                "SEARCH": "Iskanje poročil",
+                "FOOTER": "{author} - ID poročila: {id}",
+                "NEW_REPORT_TITLE": "Novo poročilo",
+                "TYPE": "Vrsta",
+                "DESCRIPTION": "Opis",
+                "DESCRIPTION_PLACEHOLDER": "Vnesite opis...",
+                "GALLERY": "Galerija",
+                "NO_ATTACHMENTS": "Ni prilog",
+                "INJURIES_CONDITIONS": "Poškodbe / Stanja",
+                "NO_INJURIES": "Ni poškodb / stanj",
+                "DOCTORS_INVOLVED": "Vključeni zdravniki",
+                "NO_DOCTORS_INVOLVED": "Ni vključenih zdravnikov",
+                "ADD_PATIENT": "Dodaj pacienta",
+
+                "REMOVE_INJURY": {
+                    "TITLE": "Odstrani poškodbo",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti poškodbo iz poročila?"
+                },
+                "REMOVE_DOCTOR": {
+                    "TITLE": "Odstrani zdravnika",
+                    "DESCRIPTION": "Ali ste prepričani, da želite odstraniti {name} iz poročila?"
+                },
+
+                "ERROR": {
+                    "TITLE": "Napaka",
+                    "NO_TYPE": "Izbrati morate vrsto poročila",
+                    "TITLE_LENGTH": "Naslov mora biti dolg vsaj 3 znake",
+                    "DESCRIPTION_LENGTH": "Opis mora biti dolg vsaj 10 znakov"
+                }
+            },
+
+            "EMPLOYEES": {
+                "TITLE": "Zaposleni",
+                "SEARCH": "Iskanje zaposlenih"
+            },
+
+            "CHAT": {
+                "TITLE": "Klepet",
+                "SEARCH": "Iskanje klepetov",
+                "PLACEHOLDER": "Pošlji sporočilo...",
+                "JOINED_CHATS": "Pridruženi klepeti",
+                "PUBLIC_CHATS": "Javni klepeti",
+                "JOINED": "Pridružen",
+                "PUBLIC": "Javen",
+                "PRIVATE_CHATS": "Zasebni klepeti",
+                "ROOM_ID": "ID sobe: {id}",
+                "TOGGLE_PRIVATE": "Preklopi na zasebno",
+                "CHANGE_AVATAR": "Spremeni avatar",
+                "SET_AVATAR": "Nastavi avatar",
+                "REMOVE_AVATAR": "Odstrani avatar",
+                "MANAGE": "Upravljaj",
+                "LEAVE": {
+                    "TITLE": "Zapusti",
+                    "DESCRIPTION": "Ali ste prepričani, da želite zapustiti klepetno sobo?"
+                },
+                "KICK": {
+                    "TITLE": "Vrži ven",
+                    "DESCRIPTION": "Ali ste prepričani, da želite vreči {name} iz klepetne sobe?"
+                },
+
+                "CREATE_CHATROOM": {
+                    "TITLE": "Ustvari klepetno sobo",
+                    "DESCRIPTION": "Vnesite ime za klepetno sobo",
+                    "PLACEHOLDER": "Ime klepetne sobe",
+                    "CREATE": "Ustvari",
+                    "SET_VISIBILITY": "Nastavi vidnost",
+                    "PUBLIC": "Javno",
+                    "PRIVATE": "Zasebno"
+                },
+                "JOIN_CHAT": {
+                    "TITLE": "Pridruži se klepetu",
+                    "DESCRIPTION": "Ali ste prepričani, da se želite pridružiti {channel}?",
+                    "JOIN": "Pridruži se"
+                },
+                "ERROR": {
+                    "TITLE": "Napaka",
+                    "FAILED_JOIN": "Pridružitev klepetni sobi ni uspela",
+                    "FAILED_INVITE": "Povabilo {name} v klepetno sobo ni uspelo",
+                    "FAILED_SET_AVATAR": "Nastavitev avatara klepetne sobe ni uspela",
+                    "FAILED_REMOVE_AVATAR": "Odstranitev avatara klepetne sobe ni uspela",
+                    "FAILED_GET_MEMBERS": "Pridobivanje članov klepetne sobe ni uspelo",
+                    "FAILED_KICK": "Vrženje {name} iz klepetne sobe ni uspelo",
+                    "FAILED_LEAVE": "Zapustitev klepetne sobe ni uspela"
+                },
+                "SUCCESS": {
+                    "TITLE": "Uspešno",
+                    "INVITED": "Povabili ste {name} v klepetno sobo",
+                    "KICKED": "Vrgli ste {name} iz klepetne sobe"
+                }
+            },
+
+            "CONDITIONS": {
+                "TITLE": "Stanja",
+                "CONDITION": "Stanje",
+                "SEARCH": "Iskanje stanj",
+
+                "SELECT_SEVERITY": "Izberi resnost",
+                "SEVERITIES": {
+                    "MINOR": "Manjše",
+                    "MODERATE": "Zmerno",
+                    "SEVERE": "Hudo",
+                    "CRITICAL": "Kritično"
+                },
+                "NO_CONDITIONS_FOUND": "Ni najdenih stanj",
+                "ADD_CONDITION": {
+                    "TITLE": "Dodaj stanje",
+                    "DESCRIPTION": "Ustvari novo stanje",
+                    "PLACEHOLDER": "Vnesite naslov stanja"
+                },
+                "DELETE_CONDITION": {
+                    "TITLE": "Izbriši stanje",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to stanje?"
+                },
+                "ADD_CATEGORY": {
+                    "TITLE": "Dodaj kategorijo",
+                    "DESCRIPTION": "Dodaj novo kategorijo na seznam stanj",
+                    "PLACEHOLDER": "Vnesite ime kategorije"
+                },
+                "DELETE_CATEGORY": {
+                    "TITLE": "Izbriši kategorijo",
+                    "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to kategorijo?"
+                }
+            },
+
+            "LOGS": {
+                "TITLE": "Dnevniki"
+            }
+        },
+        "BROWSER": {
+            "TITLE": "Brskalnik",
+            "SEARCH_PLACEHOLDER": "Iskanje ali vnos URL-ja",
+            "FAILED_LOAD_PAGE": "Nalaganje strani ni uspelo, morda ne podpira iframinga?"
+        },
+        "REGISTRATION": {
+            "TITLE": "Registracija",
+            "SELECT_CHARACTER": " Izberi lik",
+            "PLEASE_SELECT_CHARACTER": "Prosimo, izberite lik",
+            "CREATE_NEW": "Ustvari novega",
+            "EDIT": "Uredi",
+            "SAVE": "Shrani",
+            "DELETE": "Izbriši",
+            "CANCEL": "Prekliči",
+            "DELETE_CHARACTER": "Izbriši lik",
+            "DESCRIPTION": "Opis",
+            "DESCRIPTION_PLACEHOLDER": "To je opis...",
+            "ADD": "Dodaj",
+
+            "CHARACTER_INFO": "Podatki o liku",
+            "REMOVE_AVATAR": "Odstrani avatar",
+            "FIRSTNAME": "Ime",
+            "LASTNAME": "Priimek",
+            "DOB": "Datum rojstva",
+            "PHONE_NUMBER": "Telefonska številka",
+            "GENDER": "Spol",
+            "MALE": "Moški",
+            "FEMALE": "Ženska",
+            "JOB": "Poklic",
+            "HEIGHT": "Višina",
+            "FORMATTED_HEIGHT": "{height}cm",
+
+            "VEHICLES": "Vozila",
+            "VEHICLE": "Vozilo",
+            "REMOVE_PICTURE": "Odstrani sliko",
+            "SEARCH_VEHICLES": "Iskanje vozil",
+            "MODEL": "Model",
+            "PLATE": "Tablica",
+            "COLOR": "Barva",
+            "CREATE": "Ustvari",
+            "DELETE_VEHICLE": "Izbriši vozilo",
+            "DELETE_VEHICLE_POPUP": {
+                "TITLE": "Izbriši vozilo",
+                "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to vozilo?"
+            },
+
+            "LICENSES": "Dovoljenja",
+            "ADD_LICENSE": "Dodaj dovoljenje",
+            "DELETE_LICENSE_POPUP": {
+                "TITLE": "Izbriši dovoljenje",
+                "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to dovoljenje?"
+            },
+
+            "PROPERTIES": "Nepremičnine",
+            "ADD_PROPERTY_POPUP": {
+                "TITLE": "Nova nepremičnina",
+                "DESCRIPTION": "Ustvari novo nepremičnino",
+                "LABEL": "Oznaka nepremičnine",
+                "ADDRESS": "Naslov nepremičnine"
+            },
+            "DELETE_PROPERTY_POPUP": {
+                "TITLE": "Izbriši nepremičnino",
+                "DESCRIPTION": "Ali ste prepričani, da želite izbrisati to nepremičnino?"
+            },
+
+            "ERROR": {
+                "TITLE": "Napaka",
+                "MISSING_FIELDS": "Manjkajo naslednja polja: {fields}",
+                "OK": "V redu"
+            }
+        },
+        "MAPS": {
+            "GO": "Pojdi"
+        }
+    },
+    "COMPONENTS": {
+        "CONTEXT_MENU": {
+            "CANCEL": "Prekliči"
+        },
+        "IMAGE": {
+            "SAVE_TO_GALLERY": "Shrani v galerijo"
+        },
+        "GALLERY": {
+            "CANCEL": "Prekliči",
+            "EXTERNAL_URL": "Zunanji URL",
+            "EXTERNAL_URL_BLACKLISTED": "Ta URL je na črnem seznamu",
+            "NO_IMAGES": "Ni slik"
+        },
+        "NOTIFICATIONS": {
+            "SENT_PHOTO": "Poslana fotografija",
+            "SENT_GIF": "Poslan GIF",
+            "NOW": "zdaj"
+        },
+        "SHARE": {
+            "COPY_PHOTO": "Kopiraj fotografijo",
+            "COPY_VIDEO": "Kopiraj videoposnetek",
+            "USE_WALLPAPER": "Uporabi kot ozadje",
+            "COPY_NUMBER": "Kopiraj številko",
+            "COPY_LINK": "Kopiraj povezavo",
+            "AIRDROP_SENT": "Poslano",
+            "AIRDROP_ACCEPTED": "Sprejeto",
+            "AIRDROP_DECLINED": "Zavrnjeno",
+            "AIRDROP_NO_USERS": "Ni telefonov v bližini",
+            "WALLPAPER_POPUP": {
+                "TITLE": "Uporabi kot ozadje",
+                "TEXT": "Ali ste prepričani, da želite nastaviti to sliko kot ozadje?",
+                "CANCEL": "Prekliči",
+                "PROCEED": "Nadaljuj"
+            },
+            "COPY_POPUP": {
+                "TITLE": "Uspešno",
+                "DESCRIPTION": "Uspešno kopirano v odložišče",
+                "OK": "V redu"
+            }
+        },
+        "AIRDROP": {
+            "TITLE": "AirShare",
+            "TEXT": "{sender} želi deliti {type}",
+            "VIDEO": "videoposnetek",
+            "PHOTO": "fotografijo",
+            "CONTACT": "kontakt",
+            "LOCATION": "lokacijo",
+            "NOTE": "opombo",
+            "VOICEMEMO": "glasovni zapisek",
+            "PLAYLIST": "seznam predvajanja",
+            "DECLINE": "Zavrni",
+            "ACCEPT": "Sprejmi"
+        },
+
+        "BATTERY": {
+            "LOW_BATTERY": "Nizka baterija",
+            "BATTERY_REMAINING": "Preostalo {percent}% baterije",
+            "LOW_POWER_MODE": "Način nizke porabe",
+            "CLOSE": "Zapri"
+        },
+        "COLOR_PICKER": {
+            "COLOR": "Barva"
+        }
+    },
+    "SETUP": {
+        "HELLO": "Pozdravljeni",
+        "SELECT_LANGUAGE": "Izberite svoj jezik",
+        "NEXT": "Kliknite za odprtje",
+        "APPEARANCE": "Tema",
+        "APPEARANCE_TEXT": "Izberite temno ali svetlo temo za svojo napravo",
+        "CONTINUE": "Nadaljuj",
+        "WELCOME_TO": "Dobrodošli v",
+        "CLICK": "Kliknite za začetek"
+    },
+    "HOMESCREEN": {
+        "DONE": "Končano",
+        "CLOSE_ALL": "Zapri vse",
+        "REMOVE_APP_POPUP": {
+            "TITLE": "Odstrani '{app}'?",
+            "DESCRIPTION": "Brisanje te aplikacije NE bo izbrisalo njenih podatkov. Aplikacijo lahko kasneje ponovno namestite iz trgovine z aplikacijami.",
+            "CANCEL": "Prekliči",
+            "PROCEED": "Izbriši"
+        }
+    },
+    "LOCKSCREEN": {
+        "DELETE": "Izbriši",
+        "FONT_AND_COLOR": "Pisava in barva"
+    },
+    "MISC": {
+        "GENDERS": {
+            "MALE": "Moški",
+            "FEMALE": "Ženska"
+        },
+        "AIRPLANE_MODE_POPUP": {
+            "TITLE": "Napaka",
+            "DESCRIPTION": "Poskušate izvesti dejanje, ki zahteva internetno povezavo, onemogočite način letala, če želite nadaljevati.",
+            "OK": "V redu"
+        }
+    },
+    "BACKEND": {
+        "CAMERA": {
+            "TAKE_PHOTO": "{key} Posnetek",
+            "FLIP_CAMERA": "{key} Obrni",
+            "TOGGLE_FLASH": "{key} Bliskavica",
+            "TOGGLE_CURSOR": "{key} Kazalec",
+            "CHANGE_MODE": "{key} {key2} Način",
+            "ROLL": "{key} {key2} Zvitok",
+            "FREEZE": "{key} Zamrzni",
+            "UNFREEZE": "{key} Odmrzni",
+            "TOGGLE_TIP": "{key} Skrij"
+        },
+        "SERVICES": {
+            "NEW_MESSAGE": "Novo sporočilo",
+            "ANONYMOUS": "Anonimno"
+        },
+        "MISC": {
+            "X_TABLET": "Tablični računalnik {firstname}"
+        },
+        "MAIL": {
+            "AUTOMATIC_PASSWORD": {
+                "SENDER": "Sistem",
+                "SUBJECT": "Vaše geslo",
+                "MESSAGE": "Pozdravljeni,\n\nVaš samodejni e-poštni naslov je {address} in vaše geslo je {password}"
+            }
+        },
+        "LOGS": {
+            "TOOK_PHOTO": "Posneta fotografija",
+            "TOOK_VIDEO": "Posnet videoposnetek",
+            "NEW_DISPATCH": "Nov dispečer: {title}"
+        },
+        "BASE_DISPATCH": {
+            "VEHICLE_CLASSES": {
+                "0": "kompaktno",
+                "1": "limuzina",
+                "2": "SUV",
+                "3": "kupe",
+                "4": "mišični avto",
+                "5": "klasični športni avto",
+                "6": "športni avto",
+                "7": "super avto",
+                "8": "motorno kolo",
+                "9": "terensko vozilo",
+                "10": "industrijsko vozilo",
+                "11": "uporabno vozilo",
+                "12": "kombi",
+                "13": "kolo",
+                "14": "čoln",
+                "15": "helikopter",
+                "16": "letalo",
+                "17": "servisno vozilo",
+                "18": "nujno vozilo",
+                "19": "vojaško vozilo",
+                "20": "komercijalno vozilo",
+                "21": "vlak",
+                "22": "odkriti avto"
+            },
+            "VEHICLE_DATA": {
+                "BODY_TYPE": "Tip karoserije",
+                "MANUFACTURER": "Proizvajalec",
+                "MODEL": "Model",
+                "COLOR": "Barva",
+                "PLATE": "Tablica"
+            },
+            "VEHICLE_THEFT": {
+                "CODE": "10-31",
+                "TITLE": "Kraja vozila - {plate}",
+                "DESCRIPTION": "Oseba {gender_lower} je bila videna, kako krade {color_lower} {class} {manufacturer} {model} s tablico {plate}."
+            },
+            "VEHICLE_JACKING": {
+                "CODE": "10-31",
+                "TITLE": "Avtomobilska kraja - {plate}",
+                "DESCRIPTION": "Oseba {gender_lower} je bila videna, kako krade {color_lower} {class} {manufacturer} {model} s tablico {plate}."
+            },
+            "WEAPON_TYPES": {
+                "DIGISCANNER": "Digitalni skener",
+                "FIREEXTINGUISHER": "Gašilni aparat",
+                "HACKINGDEVICE": "Naprava za vdore",
+                "HEAVY": "Težko",
+                "MELEE": "Bližinsko",
+                "METALDETECTOR": "Detektor kovin",
+                "MG": "Mitraljez",
+                "NIGHTVISION": "Nočni vid",
+                "PARACHUTE": "Padalo",
+                "PETROLCAN": "Kanister za bencin",
+                "PISTOL": "Pištola",
+                "RIFLE": "Puška",
+                "SHOTGUN": "Šibrenica",
+                "SMG": "Brzostrelka",
+                "SNIPER": "Ostrostrelka",
+                "STUNGUN": "Elektrošoker",
+                "THROWN": "Metano",
+                "TRANQILIZER": "Pomirjevalo",
+                "UNARMED": "Neoborožen",
+                "UNKNOWN": "Strelno orožje"
+            },
+            "GUNSHOT": {
+                "CODE": "10-31",
+                "TITLE": "Strel - {location}",
+                "DESCRIPTION": "Oseba {gender_lower} je bila videna, kako strelja z {weapon_type_lower} na {location}."
+            },
+            "EXPLOSION": {
+                "TITLE": "Eksplozija",
+                "DESCRIPTION": "Eksplozija je bila slišana na {location}.",
+                "CODE": "10-31"
+            },
+            "ARMED": {
+                "TITLE": "Oborožen {gender}",
+                "DESCRIPTION": "Oseba {gender_lower} je bila videna oborožena z {weapon_type_lower} na {location}.",
+                "CODE": "10-31"
+            }
+        },
+        "POLICE": {
+            "EVIDENCE_LABEL": "Dokaz: Primer {id}",
+            "NEW_BULLETIN_NOTIFICATION": {
+                "TITLE": "Nova objava",
+                "CONTENT": "{title}"
+            },
+            "NEW_CASE_NOTIFICATION": {
+                "TITLE": "Nov primer",
+                "CONTENT": "{title}"
+            },
+            "NEW_REPORT_NOTIFICATION": {
+                "TITLE": "Novo poročilo",
+                "CONTENT": "{title}"
+            },
+            "NEW_WARRANT_NOTIFICATION": {
+                "TITLE": "Nov nalog",
+                "CONTENT": "{title}"
+            },
+            "NEW_CHAT_CHANNEL_NOTIFICATION": {
+                "TITLE": "Nov pogovor",
+                "CONTENT": "{channel}"
+            },
+            "CHAT_MESSAGE_NOTIFICATION": {
+                "TITLE": "Novo sporočilo v {channel}",
+                "CONTENT": "{message}"
+            },
+            "LOGS": {
+                "CREATE_OFFENCE_CATEGORY": {
+                    "TITLE": "Ustvarjena kategorija kaznivih dejanj",
+                    "DESCRIPTION": "Ustvarjena kategorija '{name}'"
+                },
+                "DELETE_OFFENCE_CATEGORY": {
+                    "TITLE": "Izbrisana kategorija kaznivih dejanj",
+                    "DESCRIPTION": "Izbrisana kategorija '{name}'"
+                },
+                "UPDATE_OFFENCE_CATEGORY": {
+                    "TITLE": "Posodobljena kategorija kaznivih dejanj",
+                    "DESCRIPTION": "Preimenovana kategorija kaznivih dejanj '{oldName}' v {newName}"
+                },
+                "CREATE_OFFENCE": {
+                    "TITLE": "Ustvarjeno kaznivo dejanje",
+                    "DESCRIPTION": "Ustvarjeno kaznivo dejanje {class} '{name}' v '{category}'"
+                },
+                "DELETE_OFFENCE": {
+                    "TITLE": "Izbrisano kaznivo dejanje",
+                    "DESCRIPTION": "Izbrisano kaznivo dejanje '{name}' v '{category}'"
+                },
+                "UPDATE_OFFENCE": {
+                    "TITLE": "Posodobljeno kaznivo dejanje",
+                    "DESCRIPTION": "Posodobljeno kaznivo dejanje '{name}' v '{category}'"
+                }
+            },
+            "WIRETAP_NOTIFICATION": {
+                "TITLE": "Prisluškovan klic",
+                "CONTENT": "Prisluškovana telefonska številka {number} je v klicu."
+            }
+        },
+        "AMBULANCE": {
+            "NOTIFICATIONS": {
+                "CHAT": {
+                    "NEW_CHANNEL": {
+                        "TITLE": "Nov pogovor",
+                        "CONTENT": "{channel}"
+                    },
+                    "NEW_MESSAGE": {
+                        "TITLE": "Novo sporočilo v {channel}",
+                        "CONTENT": "{message}"
+                    }
+                },
+                "NEW_BULLETIN": {
+                    "TITLE": "Nova objava",
+                    "CONTENT": "{title}"
+                },
+                "NEW_REPORT": {
+                    "TITLE": "Novo poročilo",
+                    "CONTENT": "{title}"
+                }
+            },
+            "TAG_TYPES": {
+                "PROFILE": "profil",
+                "REPORT": "poročilo",
+                "PROPERTY": "nepremičnina",
+                "WEAPON": "orožje"
+            },
+            "LOGS": {
+                "CREATE_CONDITION_CATEGORY": {
+                    "TITLE": "Ustvarjena kategorija stanj",
+                    "DESCRIPTION": "Ustvarjena kategorija '{name}'"
+                },
+                "DELETE_CONDITION_CATEGORY": {
+                    "TITLE": "Izbrisana kategorija stanj",
+                    "DESCRIPTION": "Izbrisana kategorija '{name}'"
+                },
+                "UPDATE_CONDITION_CATEGORY": {
+                    "TITLE": "Posodobljena kategorija stanj",
+                    "DESCRIPTION": "Preimenovana kategorija stanj '{oldName}' v {newName}"
+                },
+                "CREATE_CONDITION": {
+                    "TITLE": "Ustvarjeno stanje",
+                    "DESCRIPTION": "Ustvarjeno stanje {severity} '{name}' v '{category}'"
+                },
+                "DELETE_CONDITION": {
+                    "TITLE": "Izbrisano stanje",
+                    "DESCRIPTION": "Izbrisano stanje '{name}' v '{category}'"
+                },
+                "UPDATE_CONDITION": {
+                    "TITLE": "Posodobljeno stanje",
+                    "DESCRIPTION": "Posodobljeno stanje '{name}' v '{category}'"
+                },
+                "CREATE_BULLETIN": {
+                    "TITLE": "Ustvarjena objava",
+                    "DESCRIPTION": "Ustvarjena objava '{title}'"
+                },
+                "UPDATE_BULLETIN": {
+                    "TITLE": "Posodobljena objava",
+                    "DESCRIPTION": "Posodobljena objava '{title}'"
+                },
+                "DELETE_BULLETIN": {
+                    "TITLE": "Izbrisana objava",
+                    "DESCRIPTION": "Izbrisana objava z ID-jem {id}"
+                },
+                "PIN_BULLETIN": {
+                    "TITLE": "Pripeta objava",
+                    "DESCRIPTION": "Pripeta objava z ID-jem {id}"
+                },
+                "UNPIN_BULLETIN": {
+                    "TITLE": "Odpeta objava",
+                    "DESCRIPTION": "Odpeta objava z ID-jem {id}"
+                },
+                "DELETE_TAG": {
+                    "TITLE": "Izbrisana oznaka",
+                    "DESCRIPTION": "Izbrisana oznaka '{name}'"
+                },
+                "UPDATE_PROFILE": {
+                    "TITLE": "Posodobljen profil",
+                    "DESCRIPTION": "Posodobljen profil {name}"
+                },
+                "CREATE_REPORT": {
+                    "TITLE": "Ustvarjeno poročilo",
+                    "DESCRIPTION": "Ustvarjeno poročilo {type} '{title}' za {patient} z ID-jem {id}"
+                },
+                "UPDATE_REPORT": {
+                    "TITLE": "Posodobljeno poročilo",
+                    "DESCRIPTION": "Posodobljeno poročilo {type} z ID-jem {id}"
+                }
+            }
+        }
+    }
+}
